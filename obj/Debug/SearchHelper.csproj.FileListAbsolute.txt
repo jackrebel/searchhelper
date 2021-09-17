@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\bin\Debug\SearchHelper.exe.config
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\bin\Debug\SearchHelper.exe
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\bin\Debug\SearchHelper.pdb
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\obj\Debug\SearchHelper.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\obj\Debug\SearchHelper.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\obj\Debug\SearchHelper.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\obj\Debug\SearchHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\obj\Debug\SearchHelper.exe
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\obj\Debug\SearchHelper.pdb
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\obj\Debug\SearchHelper.Main.resources
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\bin\Debug\使用说明.txt
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\bin\Debug\Dio.dll
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\bin\Debug\Dio.pdb
+C:\Users\Administrator\Downloads\Winform-controls-master\Winform-controls-master\SearchHelper\obj\Debug\SearchHelper.csproj.CopyComplete
